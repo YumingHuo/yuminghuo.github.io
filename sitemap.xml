@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://yuminghuo.github.io/about/</loc>
     <lastmod>2023-07-31T17:38:02+08:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>https://yuminghuo.github.io/project/</loc>
     <lastmod>2023-07-31T17:35:15+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://yuminghuo.github.io/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://yuminghuo.github.io/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://yuminghuo.github.io/search/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://yuminghuo.github.io/tags/</loc>
   </url>
 </urlset>

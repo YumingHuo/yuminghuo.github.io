@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home</title>
-    <link>/</link>
+    <link>https://yuminghuo.github.io/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://yuminghuo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://yuminghuo.github.io/about/</link>
       <pubDate>Mon, 31 Jul 2023 17:38:02 +0800</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://yuminghuo.github.io/about/</guid>
       <description>as</description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>/project/</link>
+      <link>https://yuminghuo.github.io/project/</link>
       <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
       
-      <guid>/project/</guid>
+      <guid>https://yuminghuo.github.io/project/</guid>
       <description>asd</description>
     </item>
     
