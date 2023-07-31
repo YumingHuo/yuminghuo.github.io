@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yuminghuo.github.io/posts/</loc>
+    <lastmod>2023-07-31T20:55:52+08:00</lastmod>
+  </url><url>
+    <loc>https://yuminghuo.github.io/</loc>
+    <lastmod>2023-07-31T20:55:52+08:00</lastmod>
+  </url><url>
+    <loc>https://yuminghuo.github.io/posts/23.07.31/</loc>
+    <lastmod>2023-07-31T20:55:52+08:00</lastmod>
+  </url><url>
     <loc>https://yuminghuo.github.io/about/</loc>
     <lastmod>2023-07-31T17:38:02+08:00</lastmod>
   </url><url>
@@ -11,7 +20,5 @@
     <loc>https://yuminghuo.github.io/categories/</loc>
   </url><url>
     <loc>https://yuminghuo.github.io/tags/</loc>
-  </url><url>
-    <loc>https://yuminghuo.github.io/</loc>
   </url>
 </urlset>
