@@ -17,11 +17,11 @@ menu:
     #   name: Resume
     #   url: /cv.pdf/
     #   weight: 30
-    - identifier: secret
-      name: My secrets
-      # url: /posts/
-      url: /secret/
-      weight: 40
+    # - identifier: secret
+    #   name: My secrets
+    #   # url: /posts/
+    #   # url: /secret/
+    #   weight: 40
     - identifier: search
       name: Search
       url: /search/
