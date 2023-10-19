@@ -1,5 +1,5 @@
 ---
-title: "Abouttttt me 👋"
+title: "About me 👋"
 date: 2023-07-31T17:38:02+08:00
 draft: false
 ---
