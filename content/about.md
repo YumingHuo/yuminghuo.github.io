@@ -9,8 +9,8 @@ class Me:
     def __init__(self):
         self.name = "Yuming Huo"
         self.born_year = 2002
-        self.MBTI = INFP_T
-        self.hometown = "Baoding, Hebei, CN"
-        self.curr_location = "Bristol, UK"
-        self.current_universty = "University of Bristol"
+        self.MBTI = "INFP-T"
+        self.hometown = "Tianjin, CN"
+        self.current_location = "Bristol, UK"
+        self.current_university = "University of Bristol"
 ```
