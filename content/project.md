@@ -12,7 +12,7 @@ TocOpen: true
 *2022.10-2023.05 JavaScript Python*
 
 * Responsible for the front-end development and some of the back-end Python development content of the project, using tools such as Panda3D and Three.js to simulate the reality of the state of the bots as well as the content of the stack to the web side. Used tailwind CSS to beautify the web end and implemented dark mode.
-* Use the A* algorithm to calculate the shortest route and optimal solution for the movement of the boxes, optimize the algorithm parameters and heuristic functions, and test and evaluate them.
+* Use the A* algorithm to calculate the shortest route and optimal solution for the movement of the boxes, test and evaluate them.
 * Bind the project to the domain name and server, and use DNS configuration and FTP upload to realize the online and access of the website.
 * Responsible for the front-end development and some of the back-end Python development content of the project, using tools such as Panda3D and Three.js to simulate the reality of the state of the bots as well as the content of the stack to the web side. Used tailwind CSS to beautify the web end and implemented dark mode.
 
@@ -29,7 +29,7 @@ TocOpen: true
 -----------------
 ## Global press release management system
 
-*2023.02-now  React*
+*2023.02-2023.04  React*
 
 > GitHub: https://github.com/YumingHuo/system
 
@@ -47,8 +47,7 @@ TocOpen: true
 * A crawler tool was written in Python to collect images of more than twenty types of maize diseases from the Internet and to ensure the quality and quantity of the data.
 * Use data enhancement techniques to increase the diversity and quantity of the data set, such as rotation, flipping, scaling, and cropping. Use image processing libraries such as OpenCV and Pillow to implement data enhancement.
 * Use the yolov5 model to implement the identification of corn pests and diseases, and use the COCO pre-training weight and SGD optimizer, and train and optimize the model.
-* Use data parallelism and mixed precision technology to accelerate training, and optimize hyperparameters such as batch size and learning rate.
-* Use the mAP metric to evaluate the performance of the model. This model achieves an mAP score of 85%.
+* Use the mAP metric to evaluate the performance of the model.
 
 -----------------
 ## Data visualisation analysis platform

@@ -104,7 +104,7 @@ PS：说唱真的是越听越上瘾 不喜欢说唱的可有的受了 早安杨�
       
       <guid>https://yuminghuo.github.io/project/</guid>
       <description>Front-end and back-end for automated stacking robots 2022.10-2023.05 JavaScript Python
-Responsible for the front-end development and some of the back-end Python development content of the project, using tools such as Panda3D and Three.js to simulate the reality of the state of the bots as well as the content of the stack to the web side. Used tailwind CSS to beautify the web end and implemented dark mode. Use the A* algorithm to calculate the shortest route and optimal solution for the movement of the boxes, optimize the algorithm parameters and heuristic functions, and test and evaluate them.</description>
+Responsible for the front-end development and some of the back-end Python development content of the project, using tools such as Panda3D and Three.js to simulate the reality of the state of the bots as well as the content of the stack to the web side. Used tailwind CSS to beautify the web end and implemented dark mode. Use the A* algorithm to calculate the shortest route and optimal solution for the movement of the boxes, test and evaluate them.</description>
     </item>
     
   </channel>
