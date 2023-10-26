@@ -14,7 +14,6 @@ TocOpen: true
 * Responsible for the front-end development and some of the back-end Python development content of the project, using tools such as Panda3D and Three.js to simulate the reality of the state of the bots as well as the content of the stack to the web side. Used tailwind CSS to beautify the web end and implemented dark mode.
 * Use the A* algorithm to calculate the shortest route and optimal solution for the movement of the boxes, test and evaluate them.
 * Bind the project to the domain name and server, and use DNS configuration and FTP upload to realize the online and access of the website.
-* Responsible for the front-end development and some of the back-end Python development content of the project, using tools such as Panda3D and Three.js to simulate the reality of the state of the bots as well as the content of the stack to the web side. Used tailwind CSS to beautify the web end and implemented dark mode.
 
 -----------------
 ## Closed 2D matrix-based “Game of Life” gamesdassad
