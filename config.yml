@@ -49,7 +49,7 @@ params:
             - name: My project
               url: "project"
             - name: Resume
-              url: "cv.pdf"
+              url: "/pdf/cv.pdf"
 
     socialIcons: # optional
         - name: "Github"

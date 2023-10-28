@@ -7,6 +7,15 @@ TocOpen: true
 ---
 
 -----------------
+## Data visualization platform system [(Registered software copyrights)](/pdf/copyright.pdf)
+
+*2022.06-2022.07 JavaScript Echarts Vue SpringBoot*
+
+* Data processing: for data sets, calculate maximum and minimum values, mean, median, sum, variance, standard deviation, etc., and calculate similarity between two data sets, etc.
+* Numerical analysis: analysis of variance, regression analysis, correlation analysis, cluster analysis, etc.
+* Visualisation: Visualisation of the above calculation process and results.
+
+-----------------
 ## Front-end and back-end for automated stacking robots
 
 *2022.10-2023.05 JavaScript Python*
