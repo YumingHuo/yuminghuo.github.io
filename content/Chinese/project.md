@@ -7,45 +7,45 @@ TocOpen: true
 ---
 
 -----------------
-## Based on Body Capture Suit and Deep Learning to Improve Equine-Assisted Therapy
+## 基于动作捕捉服和深度学习改进马匹辅助治疗
 
 *2024.01-2024.05 Python PyTorch RNN FNN*
 
 > GitHub: https://github.com/YumingHuo/individual_project.git (**Private Now**)
 
-* The deep learning model was developed and trained based on PyTorch, and the data was collected using the dynamic capture suit. FNN and RNN models were used respectively to realize the automatic identification of the emotional state of patients receiving treatment.
-* Normalization of raw time series data, including padding, truncation, and feature normalization, to ensure data consistency and quality.
-* Visualize the training results of FNN and RNN, as well as the confusion matrix of the RNN model, and visually show how the model's predictions compare to the actual situation.
+* 基于PyTorch开发并训练深度学习模型，并使用动态捕获套装进行数据采集。分别采用FNN和RNN模型实现对接受治疗患者情绪状态的自动识别。
+* 原始时间序列数据的规范化，包括填充、截断和特征规范化，以确保数据的一致性和质量。
+* 将FNN和RNN的训练结果可视化，以及RNN模型的混淆矩阵可视化，并将模型的预测结果与实际情况进行对比。
 -----------------
-## Data Visualization Platform System
+## 数据可视化平台系统
 
-> [Registered software copyrights](/pdf/copyright.pdf)
+> [注册软件著作权](/pdf/copyright.pdf)
 
 *2022.06-2022.07 JavaScript Echarts Vue SpringBoot*
 
-* Data processing: for data sets, calculate maximum and minimum values, mean, median, sum, variance, standard deviation, etc., and calculate similarity between two data sets, etc.
-* Numerical analysis: analysis of variance, regression analysis, correlation analysis, cluster analysis, etc.
-* Use tools such as Echarts, Vue, JavaScript, etc. to display the analysis results in a visual form on the web. Increase user interactivity and operability, such as adding filtering, sorting, searching and other functions.
+* 数据处理:对于数据集，计算最大值、最小值、平均值、中位数、和、方差、标准差等，计算两个数据集之间的相似度等。
+* 数值分析:方差分析、回归分析、相关分析、聚类分析等。
+* 使用Echarts, Vue, JavaScript等工具在web上以可视化的形式显示分析结果。增加用户交互性和可操作性，如增加过滤、排序、搜索等功能。
 
 -----------------
-## Automated Stacking Robots (TUSHIBA)
+## 自动堆叠机器人(TUSHIBA)
 
 *2022.10-2023.05 JavaScript Python*
 
-* Responsible for the front-end development and some of the back-end Python development content of the project, using tools such as Panda3D and Three.js to simulate the reality of the state of the bots as well as the content of the stack to the web side. Used tailwind CSS to beautify the web end and implemented dark mode.
-* Use the A* algorithm to calculate the shortest route and optimal solution for the movement of the boxes, test and evaluate them.
-* Bind the project to the domain name and server, and use DNS configuration and FTP upload to realize the online and access of the website.
+* 负责项目的前端开发和部分后端Python开发以及算法内容，使用Panda3D、Three.js等工具将机器人的现实状态以及栈的内容模拟到web端。使用tailwind CSS美化web端，实现暗黑模式。
+* 用A*算法计算出物体移动的最短路径和最优解，并进行测试和评估。
+* 将项目与域名和服务器绑定，通过DNS配置和FTP上传实现网站的上线和访问。
 
 -----------------
-## CNN-based Plants Pests Ddentification
+## 基于cnn的植物病虫害鉴定
 
 *2023.07-2023.08 Python YoloV5 PyTorch*
 
 > GitHub: https://github.com/YumingHuo/plant-pests
 
-* A crawler tool was written in Python to collect images of more than twenty types of maize diseases from the Internet and to ensure the quality and quantity of the data.
-* Use data enhancement techniques to increase the diversity and quantity of the data set, such as rotation, flipping, scaling, and cropping. Use image processing libraries such as OpenCV and Pillow to implement data enhancement.
-* Use the yolov5 model to implement the identification of corn pests and diseases, and use the COCO pre-training weight and SGD optimizer, and train and optimize the model.
+* 用Python编写爬虫工具，从互联网上收集二十多种玉米病害的图像，保证数据的质量和数量。
+* 使用数据增强技术来增加数据集的多样性和数量，如旋转、翻转、缩放和裁剪。使用OpenCV、Pillow等图像处理库实现数据增强。
+* 使用yolov5模型实现玉米病虫害的识别，对模型进行训练和优化。
 
 -----------------
 ## Closed 2D matrix-based “Game of Life” gamesdassad

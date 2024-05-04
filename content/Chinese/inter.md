@@ -7,9 +7,9 @@ TocOpen: true
 ---
 
 -----------------
-## Institute of Automation, Chinese Academy of Sciences (Computer Vision Direction)
+## 中国科学院自动化研究所
 
 *2023.07-2023.08 Python CNN CV2 PyTorch TensorFlow*
 
-* Implemented lane line detection in images and videos for unmanned driving using cv2 and Python with lane line highlighting and real-time previews, and can proficiently apply Canny edge detection and Hough transforms, etc.
-* Handwriting recognition on MNIST dataset using TensorFlow and Convolutional Neural Networks.
+* 使用cv2和Python实现无人驾驶图像和视频的车道线检测，具有车道线高亮显示和实时预览功能，并能熟练运用Canny边缘检测、Hough变换等。
+* 基于TensorFlow和卷积神经网络的MNIST数据集手写识别。

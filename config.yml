@@ -48,16 +48,11 @@ languages:
         - name: "Discord"
           url: "https://discordapp.com/users/huoh"
     
-    # permalinks:
-    #   about: "/chinese/about/"
-    #   project: "/chinese/project/"
-    #   inter: "/english/inter/"
-
-
   zh:
     languageName: "中文"
     languageCode: "zh"
     contentDir: "content/Chinese"
+    title: "霍禹铭"
     menu:
       main:
         - identifier: search
@@ -80,11 +75,11 @@ languages:
         imageWidth: 120
         imageHeight: 120
         buttons:
-          - name: About me
+          - name: 关于我
             url: "/zh/about/"
-          - name: My project
+          - name: 项目经历
             url: "/zh/project/"
-          - name: My intership
+          - name: 实习经历
             url: "/zh/inter/"
           - name: 简历
             url: "/pdf/霍禹铭.pdf"
@@ -95,8 +90,3 @@ languages:
           url: "mailto:hym811@outlook.com"
         - name: "Discord"
           url: "https://discordapp.com/users"
-
-    # permalinks:
-    #   about: "/chinese/about/"
-    #   project: "/chinese/project/"
-    #   inter: "/chinese/inter/"
