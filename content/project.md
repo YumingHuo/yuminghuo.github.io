@@ -11,6 +11,8 @@ TocOpen: true
 
 *2024.01-2024.05 Python PyTorch RNN FNN*
 
+> GitHub: https://github.com/YumingHuo/individual_project.git
+
 * The deep learning model was developed and trained based on PyTorch, and the data was collected using the dynamic capture suit. FNN and RNN models were used respectively to realize the automatic identification of the emotional state of patients receiving treatment.
 * Normalization of raw time series data, including padding, truncation, and feature normalization, to ensure data consistency and quality.
 * Visualize the training results of FNN and RNN, as well as the confusion matrix of the RNN model, and visually show how the model's predictions compare to the actual situation.
