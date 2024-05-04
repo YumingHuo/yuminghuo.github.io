@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yuming Huo</title>
+    <link>https://yuminghuo.github.io/zh/</link>
+    <description>Recent content on Yuming Huo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language><atom:link href="https://yuminghuo.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me 👋</title>
+      <link>https://yuminghuo.github.io/zh/about/</link>
+      <pubDate>Mon, 31 Jul 2023 17:38:02 +0800</pubDate>
+      
+      <guid>https://yuminghuo.github.io/zh/about/</guid>
+      <description>class Me: def __init__(self): self.name = &amp;#34;霍禹铭&amp;#34; self.born_year = 2002 self.MBTI = &amp;#34;INFP-T&amp;#34; self.hometown = &amp;#34;天津&amp;#34; self.current_location = &amp;#34;英国布里斯托&amp;#34; self.current_university = &amp;#34;布里斯托大学&amp;#34; </description>
+    </item>
+    
+    <item>
+      <title>My project 👨‍💻</title>
+      <link>https://yuminghuo.github.io/zh/inter/</link>
+      <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
+      
+      <guid>https://yuminghuo.github.io/zh/inter/</guid>
+      <description> Institute of Automation, Chinese Academy of Sciences (Computer Vision Direction) 2023.07-2023.08 Python CNN CV2 PyTorch TensorFlow
+Implemented lane line detection in images and videos for unmanned driving using cv2 and Python with lane line highlighting and real-time previews, and can proficiently apply Canny edge detection and Hough transforms, etc. Handwriting recognition on MNIST dataset using TensorFlow and Convolutional Neural Networks. </description>
+    </item>
+    
+    <item>
+      <title>My project 👨‍💻</title>
+      <link>https://yuminghuo.github.io/zh/project/</link>
+      <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
+      
+      <guid>https://yuminghuo.github.io/zh/project/</guid>
+      <description>Based on Body Capture Suit and Deep Learning to Improve Equine-Assisted Therapy 2024.01-2024.05 Python PyTorch RNN FNN
+GitHub: https://github.com/YumingHuo/individual_project.git (Private Now)
+The deep learning model was developed and trained based on PyTorch, and the data was collected using the dynamic capture suit. FNN and RNN models were used respectively to realize the automatic identification of the emotional state of patients receiving treatment. Normalization of raw time series data, including padding, truncation, and feature normalization, to ensure data consistency and quality.</description>
+    </item>
+    
+  </channel>
+</rss>
