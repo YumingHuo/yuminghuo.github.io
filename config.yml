@@ -2,61 +2,101 @@ baseURL: "https://yuminghuo.github.io"
 languageCode: en-us
 title: Yuming Huo
 theme: PaperMod
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 
-menu:
-  main:
-    # - identifier: about
-    #   name: About me
-    #   url: /about/
-    #   weight: 10
-    # - identifier: project
-    #   name: My project
-    #   url: /project/
-    #   weight: 20
-    # - identifier: resume
-    #   name: Resume
-    #   url: /cv.pdf/
-    #   weight: 30
-    # - identifier: secret
-    #   name: My secrets
-    #   # url: /posts/
-    #   # url: /secret/
-    #   weight: 40
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 50
-
-params:
-    defaultTheme: dark
-    ShowShareButtons: false #每个帖子下添加分享按钮
-    ShowReadingTime: true #显示帖子阅读时间
-    author: ["Yuming"]
-    ShowBreadCrumbs: true
-    ShowPostNavLinks: true #帖子下方的其他帖子建议
-
-    profileMode:
+languages:
+  en:
+    languageName: "English"
+    languageCode: "en"
+    contentDir: "content/English"
+    menu:
+      main:
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 50
+    params:
+      defaultTheme: dark
+      ShowShareButtons: false
+      ShowReadingTime: true
+      author: ["Yuming"]
+      ShowBreadCrumbs: true
+      ShowPostNavLinks: true
+      profileMode:
         enabled: true
-        title: "<About Yuming>" # optional default will be site title
-        subtitle: "Yuming Huo"
-        imageUrl: "img/title.JPG" # optional
-        imageTitle: "Yuming Huo" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
+        title: "Yuming Huo"
+        subtitle: "University of Bristol"
+        imageUrl: "img/title.JPG"
+        imageTitle: "Yuming Huo"
+        imageWidth: 120
+        imageHeight: 120
         buttons:
-            - name: About me
-              url: "about"
-            - name: My project
-              url: "project"
-            - name: My intership
-              url: "inter"
-            - name: Resume
-              url: "/pdf/Yuming Huo.pdf"
-
-    socialIcons: # optional
+          - name: About me
+            url: "/en/about/"
+          - name: My project
+            url: "/en/project/"
+          - name: My intership
+            url: "/en/inter/"
+          - name: Resume
+            url: "/pdf/Yuming Huo.pdf"
+      socialIcons:
         - name: "Github"
           url: "https://github.com/YumingHuo"
         - name: "email"
           url: "mailto:hym811@outlook.com"
         - name: "Discord"
-          url: "https://discordapp.com/users/huoh."
+          url: "https://discordapp.com/users/huoh"
+    
+    # permalinks:
+    #   about: "/chinese/about/"
+    #   project: "/chinese/project/"
+    #   inter: "/english/inter/"
+
+
+  zh:
+    languageName: "中文"
+    languageCode: "zh"
+    contentDir: "content/Chinese"
+    menu:
+      main:
+        - identifier: search
+          name: 搜索🔍
+          url: /search/
+          weight: 50
+    params:
+      defaultTheme: dark
+      ShowShareButtons: false
+      ShowReadingTime: true
+      author: ["Yuming"]
+      ShowBreadCrumbs: true
+      ShowPostNavLinks: true
+      profileMode:
+        enabled: true
+        title: "霍禹铭"
+        subtitle: "布里斯托大学 计算机科学 本科"
+        imageUrl: "img/title.JPG"
+        imageTitle: "Yuming Huo"
+        imageWidth: 120
+        imageHeight: 120
+        buttons:
+          - name: About me
+            url: "/zh/about/"
+          - name: My project
+            url: "/zh/project/"
+          - name: My intership
+            url: "/zh/inter/"
+          - name: 简历
+            url: "/pdf/霍禹铭.pdf"
+      socialIcons:
+        - name: "Github"
+          url: "https://github.com/YumingHuo"
+        - name: "email"
+          url: "mailto:hym811@outlook.com"
+        - name: "Discord"
+          url: "https://discordapp.com/users"
+
+    # permalinks:
+    #   about: "/chinese/about/"
+    #   project: "/chinese/project/"
+    #   inter: "/chinese/inter/"
