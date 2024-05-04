@@ -48,6 +48,8 @@ params:
               url: "about"
             - name: My project
               url: "project"
+            - name: My intership
+              url: "inter"
             - name: Resume
               url: "/pdf/Yuming Huo.pdf"
 

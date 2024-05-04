@@ -99,6 +99,16 @@ PS：说唱真的是越听越上瘾 不喜欢说唱的可有的受了 早安杨�
     
     <item>
       <title>My project 👨‍💻</title>
+      <link>https://yuminghuo.github.io/inter/</link>
+      <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
+      
+      <guid>https://yuminghuo.github.io/inter/</guid>
+      <description> Institute of Automation, Chinese Academy of Sciences (Computer Vision Direction) 2023.07-2023.08 Python CNN CV2 PyTorch TensorFlow
+Implemented lane line detection in images and videos for unmanned driving using cv2 and Python with lane line highlighting and real-time previews, and can proficiently apply Canny edge detection and Hough transforms, etc. Handwriting recognition on MNIST dataset using TensorFlow and Convolutional Neural Networks. </description>
+    </item>
+    
+    <item>
+      <title>My project 👨‍💻</title>
       <link>https://yuminghuo.github.io/project/</link>
       <pubDate>Mon, 31 Jul 2023 17:35:15 +0800</pubDate>
       

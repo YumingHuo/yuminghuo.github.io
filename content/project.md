@@ -48,14 +48,6 @@ TocOpen: true
 * Use the yolov5 model to implement the identification of corn pests and diseases, and use the COCO pre-training weight and SGD optimizer, and train and optimize the model.
 
 -----------------
-## Institute of Automation, Chinese Academy of Sciences (Computer Vision Direction)
-
-*2023.07-2023.08 Python CNN CV2*
-
-* Implemented lane line detection in images and videos for unmanned driving using cv2 and Python with lane line highlighting and real-time previews, and can proficiently apply Canny edge detection and Hough transforms, etc.
-* Handwriting recognition on MNIST dataset using TensorFlow and Convolutional Neural Networks.
-
------------------
 ## Closed 2D matrix-based “Game of Life” gamesdassad
 
 *2022.10-2023.01 Golong*
