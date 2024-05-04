@@ -2,7 +2,7 @@ baseURL: "https://yuminghuo.github.io"
 languageCode: en-us
 title: Yuming Huo
 theme: PaperMod
-defaultContentLanguage: en
+defaultContentLanguage: zh
 defaultContentLanguageInSubdir: true
 
 languages:
