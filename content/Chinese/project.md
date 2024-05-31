@@ -48,22 +48,20 @@ TocOpen: true
 * 使用yolov5模型实现玉米病虫害的识别，对模型进行训练和优化。
 
 -----------------
-## Closed 2D matrix-based “Game of Life” gamesdassad
+## 基于封闭二维矩阵的“生命游戏” 
 
 *2022.10-2023.01 Golong*
 
-* Use Golang to complete the main logic of this cellular machine to reach the final goal.
-* In the parallel part, use SDL to realize the real-time progress of the project, and effectively solve the problems of deadlock and competition in the project.
-* Use thread and lock technology to realize parallel processing, and perform performance testing and optimization.
-* Use AWS Node for distributed development, and use Halo Exchange to ensure efficient communication between nodes.
+* 使用Golang完成该项目的主要逻辑，达到最终目标。
+* 在并行部分，利用SDL实现项目的实时进度，有效解决项目中的死锁、竞争等问题。
+* 利用线程和锁技术实现并行处理，并进行性能测试和优化。
+* 使用AWS Node进行分布式开发，并使用Halo Exchange保证节点间高效通信。
 
 -----------------
-## Global press release management system
+## 全球新闻稿管理系统
 
 *2023.02-2023.04  React*
 
-> GitHub: https://github.com/YumingHuo/system
-
-* Building projects with react, routing with router, etc.
-* Completed: Login module (login verification blocking, particle effects), Permission management module (permission list, role list), User management module.
-* Scheduled to be completed: News management module (drafts, etc.), Review module, Posting management module (pending, posted, etc.).
+* 使用 react 构建项目，使用 router 进行路由等。
+* 完成：登录模块（登录验证拦截、粒子特效）、权限管理模块（权限列表、角色列表）、用户管理模块。
+* 预计完成：新闻管理模块（草稿等）、评论模块、发帖管理模块（待发、已发等）。
