@@ -82,7 +82,7 @@ languages:
           - name: 实习经历
             url: "/zh/inter/"
           - name: 简历
-            url: "/pdf/霍禹铭.pdf"
+            url: "/pdf/霍禹铭_24fall.pdf"
       socialIcons:
         - name: "Github"
           url: "https://github.com/YumingHuo"
