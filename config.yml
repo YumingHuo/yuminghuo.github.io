@@ -69,7 +69,7 @@ languages:
       profileMode:
         enabled: true
         title: "霍禹铭"
-        subtitle: "布里斯托大学 计算机科学 本科"
+        subtitle: "Univeristy of Bristol, MSc Robotics (2024-2025), BSc Computer Science (2021-2024)"
         imageUrl: "img/title.JPG"
         imageTitle: "Yuming Huo"
         imageWidth: 120
